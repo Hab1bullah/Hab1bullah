@@ -1,14 +1,10 @@
 #  About Me
-##👳‍♂️ Name: Adegoke Habib
-##👨 Pronoun: He/Him
-##🧭 Location: Nigeria
-##💼 Job: Flutter Dev
+-##👳‍♂️Name: Adegoke Habib
+-##👨Pronouns: Mr
+-##🧭Location: Nigeria
+-##💼Job: Flutter Dev
 
 
-<!--
-**Hab1bullah/Hab1bullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 #   I’m currently 
 - Cyber Security Student
@@ -16,7 +12,10 @@ Here are some ideas to get you started:
 - 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+#📫 How to reach me:
+-##Phone: +2348147933016
+-##Linkedin: Adegoke Habib
+-##Gmail: adegoke.m1603858@st.futminna.edu.ng
+-##Tweeter: @Adegoke_H4b1b
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
